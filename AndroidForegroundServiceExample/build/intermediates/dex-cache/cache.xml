@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="674ea5582f0c68e708dc9aadcbb92f10e15a0162">
+        <dex dex="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_48c983b8046773b9621f4b412a627b54af954da7/classes.dex" />
+    </item>
+    <item
+        jar="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_f67a9153870e355e9c74608d386c85947c37480c/classes.dex" />
+    </item>
+    <item
+        jar="/home/vale/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_60ad9ea20036b992fedef6118c5b403bbde133c3/classes.dex" />
+    </item>
+    <item
+        jar="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_b6baaee583c765465cba23747ad9833ab3002de9/classes.dex" />
+    </item>
+    <item
+        jar="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_e5018c1b358c9828f5001dc79b342d28793ef9c0/classes.dex" />
+    </item>
+    <item
+        jar="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a368cb932c5b022c7674fbaf8733a62de9e2c2e0">
+        <dex dex="/home/vale/AndroidStudioProjects/ElBoxeoTieneMusica5/AndroidForegroundServiceExample/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ed245c9176b1a92e3f483759b67651f35f39307f/classes.dex" />
+    </item>
+
+</items>
